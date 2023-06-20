@@ -149,7 +149,7 @@ Only GraalVM Enterprise Edition comes with the full set of optimizations. Downlo
 
 - Windows AMD64 (64-bit): https://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA17_22_3_1/graalvm-ee-java17-windows-amd64-22.3.1.zip
     
-- Linux AMD64 (64-bit): https://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA17_22_3_1/graalvm-ee-java17-linux-amd64-22.3.1.tar.gz
+- Linux AMD64 (64-bit): https://download.oracle.com/graalvm/17/latest/graalvm-jdk-17_linux-x64_bin.tar.gz 23.0.0 Version! Only for Linux, as far as I know.
     
 - Linux AARCH64 (ARM 64-bit): https://oca.opensource.oracle.com/gds/GRAALVM_EE_JAVA17_22_3_1/graalvm-ee-java17-linux-aarch64-22.3.1.tar.gz
 
